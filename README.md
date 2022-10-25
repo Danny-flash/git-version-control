@@ -6,4 +6,12 @@ where I store my git commands
 I just changed a file on this cloned project.
 git status shows all the file that have beem created, modified or deleted that haven't been saved in the commit yet.
 
-git add . is the add all the new untracked files or folders 
+git add . is the add all the new untracked files or folders
+
+2. git branch 
+git checkout -b name of the branch
+
+git checkout is to switch btw branches
+
+# demo 
+open index.html blah blah blah.
